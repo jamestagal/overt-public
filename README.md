@@ -13,3 +13,5 @@ Overt is an AI-first programming language, designed for programming by AI agents
 Each stage's `README.md` lists what is published and what is withheld. Test sources, expectations and the core text are withheld, so that the tests stay usable as a blind check.
 
 The plan for the next stages is in `ROADMAP.md`. It is a plan, not a commitment.
+
+The design bet behind the language is in `ORIGINS.md`, as history and design intent, not results.
